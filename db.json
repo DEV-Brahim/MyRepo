@@ -1,0 +1,50 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "numCard": "5463758465440223",
+      "expDate": "02/12/2020",
+      "nomPorteur": "EL HAJJAJI BRAHIM",
+      "emeteur": "BMCI",
+      "type": "mastercard"
+    },
+    {
+      "id": "2",
+      "numCard": "5463755645440223",
+      "expDate": "02/12/2020",
+      "nomPorteur": "EL AHMADI ALI",
+      "emeteur": "CIH",
+      "type": "mastercard"
+    },
+    {
+      "id": "3",
+      "numCard": "5467700460203223",
+      "expDate": "02/12/2020",
+      "nomPorteur": "MESSI BARCA",
+      "emeteur": "UBS",
+      "type": "visa"
+    },
+    {
+      "id": "4",
+      "numCard": "5463708465110223",
+      "expDate": "02/12/2020",
+      "nomPorteur": "YOUSSEF TODO",
+      "emeteur": "BP",
+      "type": "mastercard"
+    },
+    {
+      "id": "5",
+      "numCard": "5463758460000223",
+      "expDate": "02/12/2020",
+      "nomPorteur": "LEONARDO DICAPRIO",
+      "emeteur": "BMCE",
+      "type": "VISA"
+    },
+    {
+      "id": "6",
+      "numCard": "5463758460000223",
+      "expDate": "02/12/2022",
+      "nomPorteur": "bobo bibi"
+    }
+  ]
+}
