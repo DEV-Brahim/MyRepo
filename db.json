@@ -6,7 +6,49 @@
       "expDate": "02/12/2020",
       "nomPorteur": "EL HAJJAJI BRAHIM",
       "emeteur": "BMCI",
-      "type": "mastercard"
+      "type": "mastercard",
+      "transactions": [
+        {
+            "id_op": "6548",
+            "num_trx": "7754",
+            "type_op": "retrait",
+            "montant": "1500",
+            "devise": "MAD",
+            "date_op": "23/11/2019"
+        },
+        {
+            "id_op": "5674",
+            "num_trx": "2234",
+            "type_op": "achat",
+            "montant": "1500",
+            "devise": "MAD",
+            "date_op": "22/02/2019"
+        },
+        {
+            "id_op": "0989",
+            "num_trx": "8876",
+            "type_op": "ret",
+            "montant": "5000",
+            "devise": "EUR",
+            "date_op": "14/09/2019"
+        },
+        {
+            "id_op": "4453",
+            "num_trx": "1123",
+            "type_op": "ret",
+            "montant": "800",
+            "devise": "MAD",
+            "date_op": "22/02/2019"
+        },
+        {
+            "id_op": "0098",
+            "num_trx": "3456",
+            "type_op": "achat",
+            "montant": "50000",
+            "devise": "EUR",
+            "date_op": "22/01/2019"
+        }
+      ]
     },
     {
       "id": "2",
@@ -14,7 +56,41 @@
       "expDate": "02/12/2020",
       "nomPorteur": "EL AHMADI ALI",
       "emeteur": "CIH",
-      "type": "mastercard"
+      "type": "mastercard",
+      "transactions": [
+        {
+            "id_op": "4536",
+            "num_trx": "0086",
+            "type_op": "retrait",
+            "montant": "500",
+            "devise": "MAD",
+            "date_op": "22/02/2019"
+        },
+        {
+            "id_op": "1236",
+            "num_trx": "6686",
+            "type_op": "achat",
+            "montant": "1500",
+            "devise": "MAD",
+            "date_op": "22/02/2019"
+        },
+        {
+            "id_op": "4566",
+            "num_trx": "1186",
+            "type_op": "ret",
+            "montant": "800",
+            "devise": "MAD",
+            "date_op": "22/02/2019"
+        },
+        {
+            "id_op": "4006",
+            "num_trx": "0006",
+            "type_op": "achat",
+            "montant": "50000",
+            "devise": "EUR",
+            "date_op": "22/01/2019"
+        }
+      ]
     },
     {
       "id": "3",
@@ -22,7 +98,33 @@
       "expDate": "02/12/2020",
       "nomPorteur": "MESSI BARCA",
       "emeteur": "UBS",
-      "type": "visa"
+      "type": "visa",
+      "transactions": [
+        {
+            "id_op": "5436",
+            "num_trx": "1278",
+            "type_op": "retrait",
+            "montant": "500",
+            "devise": "MAD",
+            "date_op": "22/02/2019"
+        },
+        {
+            "id_op": "7677",
+            "num_trx": "3345",
+            "type_op": "ret",
+            "montant": "800",
+            "devise": "MAD",
+            "date_op": "22/02/2019"
+        },
+        {
+            "id_op": "7866",
+            "num_trx": "4445",
+            "type_op": "achat",
+            "montant": "50000",
+            "devise": "EUR",
+            "date_op": "22/01/2019"
+        }
+      ]
     },
     {
       "id": "4",
@@ -30,7 +132,33 @@
       "expDate": "02/12/2020",
       "nomPorteur": "YOUSSEF TODO",
       "emeteur": "BP",
-      "type": "mastercard"
+      "type": "mastercard",
+      "transactions": [
+        {
+            "id_op": "2234",
+            "num_trx": "8997",
+            "type_op": "achat",
+            "montant": "1500",
+            "devise": "MAD",
+            "date_op": "22/02/2019"
+        },
+        {
+            "id_op": "8879",
+            "num_trx": "5564",
+            "type_op": "ret",
+            "montant": "5000",
+            "devise": "EUR",
+            "date_op": "20/12/2019"
+        },
+        {
+            "id_op": "0098",
+            "num_trx": "7780",
+            "type_op": "achat",
+            "montant": "50000",
+            "devise": "EUR",
+            "date_op": "22/01/2019"
+        }
+      ]
     },
     {
       "id": "5",
@@ -38,13 +166,33 @@
       "expDate": "02/12/2020",
       "nomPorteur": "LEONARDO DICAPRIO",
       "emeteur": "BMCE",
-      "type": "VISA"
-    },
-    {
-      "id": "6",
-      "numCard": "5463758460000223",
-      "expDate": "02/12/2022",
-      "nomPorteur": "bobo bibi"
+      "type": "VISA",
+      "transactions": [
+        {
+            "id_op": "8890",
+            "num_trx": "3420",
+            "type_op": "retrait",
+            "montant": "500",
+            "devise": "MAD",
+            "date_op": "22/02/2019"
+        },
+        {
+            "id_op": "1287",
+            "num_trx": "5881",
+            "type_op": "achat",
+            "montant": "1500",
+            "devise": "MAD",
+            "date_op": "22/02/2019"
+        },
+        {
+            "id_op": "3442",
+            "num_trx": "6675",
+            "type_op": "achat",
+            "montant": "50000",
+            "devise": "EUR",
+            "date_op": "22/01/2019"
+        }
+      ]
     }
   ]
 }
